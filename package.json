@@ -1,6 +1,6 @@
 {
   "name": "object-inject",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Inject a new object into an existing object at a certain position.",
   "main": "index.js",
   "scripts": {
