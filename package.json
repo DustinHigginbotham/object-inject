@@ -1,0 +1,24 @@
+{
+  "name": "object-inject",
+  "version": "0.0.1",
+  "description": "Inject a new object into an existing object at a certain position.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/use-weave/object-inject.git"
+  },
+  "keywords": [
+    "object",
+    "inject",
+    "ordering"
+  ],
+  "author": "Dustin Higginbotham <dustinh052@gmail.com> (http://6px.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/use-weave/object-inject/issues"
+  },
+  "homepage": "https://github.com/use-weave/object-inject"
+}
